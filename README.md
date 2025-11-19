@@ -9,7 +9,7 @@
 
 ## 🖼️ Gallery
 
-![Random Walk Demo](assets/output2.png)
+![Random Walk Demo](assets/output6.png)
 
 
 ## 📖 About the Project
