@@ -28,7 +28,7 @@ The goal was to create a script that not only generates the data points but visu
 
 The algorithm starts at point `(0,0)`. For each step, it decides:
 1.  **Direction:** Positive or Negative (X and Y).
-2.  **Distance:** A random choice from a predefined list (e.g., 1 to 5).
+2.  **Distance:** A random choice from a predefined list (e.g., 1 to 6).
 3.  **Accumulation:** The new position is the sum of the previous position + the step.
 
 This mimics **Brownian Motion** logic, creating organic, cloud-like structures.
