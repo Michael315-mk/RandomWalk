@@ -4,8 +4,11 @@ m.run_walk()
 
 fig, ax = plt.subplots()
 
+# List with the index numbers
+list_index = range(m.total)
+
 # Generating the plot
-ax.scatter(m.x_values,m.y_values,c=m.y_values, cmap=plt.cm.magma, edgecolors='none', s=10)
+ax.scatter(m.x_values,m.y_values,c=list_index, cmap=plt.cm.magma, edgecolors='none', s=10)
 
 # Titles and labels
 ax.set_title("Random Walk", fontsize=20)
