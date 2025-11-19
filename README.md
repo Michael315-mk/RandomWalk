@@ -9,8 +9,8 @@
 
 ## 🖼️ Gallery
 
-![Random Walk Demo](assets/my_random_walk.png)
-*(Replace this link with your actual image file path to show off that cool gradient plot)*
+![Random Walk Demo](assets/outpu1.png)
+
 
 ## 📖 About the Project
 
@@ -56,5 +56,4 @@ This mimics **Brownian Motion** logic, creating organic, cloud-like structures.
 Run the main script to generate a new walk:
 
 ```bash
-python rw_visual.py
-``
+python3 rw_visual.py
