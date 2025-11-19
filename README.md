@@ -43,7 +43,7 @@ This mimics **Brownian Motion** logic, creating organic, cloud-like structures.
 
 1.  Clone the repository:
     ```bash
-    git clone [https://github.com/Michael315-mk/random-walk-viz.git](https://github.com/Michael315-mk/random-walk-viz.git)
+    git clone https://github.com/Michael315-mk/RandomWalk.git
     ```
 2.  Install dependencies:
     ```bash
