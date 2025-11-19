@@ -14,7 +14,6 @@ ax.set_ylabel("Values of Y", fontsize=14)
 
 ax.tick_params(labelsize=12)
 
-ax.axis()
-
+ax.set_aspect('equal')
 plt.style.use('dark_background')
 plt.show()
